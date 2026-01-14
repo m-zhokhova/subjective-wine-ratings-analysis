@@ -6,9 +6,8 @@ The target variable is a **subjective rating**, rather than an objective measure
 
 The analysis combines exploratory data analysis, clustering, predictive modeling, and explainability to understand which features actually drive model behavior — and where the limits of the data lie.
 
+The notebook can be found here: https://github.com/m-zhokhova/subjective-wine-ratings-analysis/blob/main/notebooks/portuguese-wines-eda-blog-os-vinhos.ipynb
 
-The notebook can be found here: 
-https://github.com/m-zhokhova/subjective-wine-ratings-analysis/blob/main/notebooks/portuguese-wines-eda-blog-os-vinhos.ipynb
 ---
 
 ## Dataset
