@@ -65,7 +65,4 @@ The analysis is structured as follows:
 - More complex models do not recover additional signal  
 - Explainability confirms that the data, not the model, is the limiting factor  
 
----
-
-## Repository Structure
 
