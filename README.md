@@ -1,6 +1,11 @@
 # Price Explains the Wine: An Analysis of Subjective Ratings  
 **EDA, Modeling, and Explainability**
 
+## My Project Portfolio:
+https://github.com/m-zhokhova/data-science-portfolio
+
+---
+
 This project explores a dataset of Portuguese wines rated by expert judges.  
 The target variable is a **subjective rating**, rather than an objective measure of wine quality.
 
